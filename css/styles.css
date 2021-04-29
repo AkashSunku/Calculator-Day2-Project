@@ -19,6 +19,11 @@ color: #04009a;
   width: 200px;
   margin: 20px auto;
 }
+@media screen and (max-width:450px){
+  .cal-boc{
+    width: auto;
+  }
+}
 
 #display{
   border: none;
