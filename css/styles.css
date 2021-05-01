@@ -22,7 +22,7 @@ color: #04009a;
   margin: 20px auto;
 }
 @media screen and (max-width:450px){
-  .cal-boc{
+  .cal-box{
     width: auto;
   }
 }
